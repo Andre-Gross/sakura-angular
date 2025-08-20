@@ -11,7 +11,8 @@ h1 {
 
 
 h2 {
-    font-size: 56px;
+    font-size: 24px;
+    font-weight: normal;
     color: white;
 }
 
@@ -22,7 +23,7 @@ section {
     display: flex;
     justify-content: center;
 
-    background-image: url('./../../../public/assets/img/1_hero/JPG/hero_bg.jpg');
+    background-image: url('./../../../../public/assets/img/1_hero/JPG/hero_bg.jpg');
     background-repeat: no-repeat;
     background-position: bottom center;
     background-size: cover;
