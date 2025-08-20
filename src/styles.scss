@@ -1,14 +1,14 @@
-* {
-    margin: 0;
+@font-face {
+    font-family: 'raleway';
     src: url('./../public/assets/fonts/raleway-v36-latin-regular.ttf') format('truetype');
 }
 
 
-@font-face {
-    font-family: 'raleway';
+* {
+    margin: 0;
 }
 
 
-.fontRaleway {
+body {
     font-family: 'raleway', Arial, Helvetica, sans-serif;
 }
