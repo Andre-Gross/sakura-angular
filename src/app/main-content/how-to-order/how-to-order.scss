@@ -1,0 +1,46 @@
+section {
+    margin: 120px 160px 0 160px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+h2 {
+    color: #9F0908;
+    font-size: 80px;
+    font-weight: bold;
+    margin: 0px;
+}
+
+
+#icon-line {
+    margin-top: 64px;
+    width: 100%;
+
+    display: flex;
+    justify-content: space-around;
+
+    >div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+
+        >img {
+            width: 100%;
+
+            justify-content: center;
+            width: 128px;
+            margin-bottom: 16px;
+        }
+
+
+        >p {
+            text-align: center;
+            font-size: 56px;
+            font-weight: bold;
+        }
+    }
+}
