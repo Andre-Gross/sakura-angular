@@ -13,7 +13,7 @@ import { Navbar } from './navbar/navbar'
         <app-navbar></app-navbar>
         <div id="header-container">
             <h1 class="fontRaleway">SAKURA RAMEN</h1>
-            <h2 class="fontRaleway">THE BEST RAMEN IN TOWN</h2>
+            <p class="fontRaleway">THE BEST RAMEN IN TOWN</p>
         </div>
     </section>`,
     styleUrls: ['./landing-page.scss']
